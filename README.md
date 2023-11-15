@@ -6,7 +6,7 @@ Spec|Spec Description | Tag	|Case 	|Case Description| Steps   | Status | Comment
 One | This is a spec  | t1	|case 1 | Do something   | do this | P	    | 
 One |                 | t1	|case 2 | Do something   | do that | F	    | this is a comment
 
-Multiple **tabs** within the excel spreadsheet will be represented as groups in Testspace. 
+Multiple **tabs** within the Excel spreadsheet will be represented as groups in Testspace. 
 
 ## Basic Usage
 This repo is a `template` to be used on the `s2testorg`. All credentials (secrets) have been set up - `TESTSPACE_CRED` and `GH_PAT_FOR_TF`.  
